@@ -1,6 +1,6 @@
 ![header_profile](https://github.com/user-attachments/assets/3fc5b994-521f-4d73-94de-bd94ec6c6b0b)
 ## About Me
-<p>I am Matthew Lebron Ponciano, currently pursuing a Bachelor of Science in Information Technology at the University of Northern Philippines. With a passion for technology and design, I am dedicated to expanding my knowledge and skills in the IT field, aiming to contribute meaningfully to the ever-evolving world of technology.</p>
+<p align="center">I am Matthew Lebron Ponciano, currently pursuing a Bachelor of Science in Information Technology at the University of Northern Philippines. With a passion for technology and design, I am dedicated to expanding my knowledge and skills in the IT field, aiming to contribute meaningfully to the ever-evolving world of technology.</p>
 
 ## Languages and Tools
 <div align="center">  
@@ -23,7 +23,7 @@
 ![quote](https://github.com/user-attachments/assets/9272efd1-ae41-4e0f-bac6-4c2ade4a6dc4)
 
 ## Profile Visits
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MLPonciano)
+[![](https://visitcount.itsvg.in/api?id=MLPonciano&label=Profile%20Visits&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
