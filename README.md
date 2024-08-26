@@ -1,5 +1,5 @@
 ## About Me:
-![header_profile](https://github.com/user-attachments/assets/283a8e8f-91a8-4a9c-aa72-9f8f294ba701)
+![header_profile](https://github.com/user-attachments/assets/d5dd41b1-963c-4ae2-a4e1-3589cafe6bd2)
 
 ## Social Networks:
 <a href="https://www.facebook.com/matthewlebron.ponciano"><img src="https://img.shields.io/badge/Matthew Lebron Ponciano-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://discord.com/users/576591168050167830"><img src="https://img.shields.io/badge/nacht.-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://github.com/MLPonciano"><img src="https://img.shields.io/badge/MLPonciano-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -15,7 +15,9 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a> 
+<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="25" /></a> 
+
 </div>  
 
 ## Favorite Inspirational Quote:
