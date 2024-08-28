@@ -10,9 +10,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1920px-MySQL_logo.svg.png" alt="MySQL" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux" height="25" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="XAMPP" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Figma" height="25" /></a> 
 <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="25" /></a> 
 <a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="Gimp" height="25" /></a>
