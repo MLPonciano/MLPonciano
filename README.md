@@ -21,9 +21,6 @@
 ## Inspirational Quote
 ![quote](https://github.com/user-attachments/assets/9272efd1-ae41-4e0f-bac6-4c2ade4a6dc4)
 
-## Profile Visits
-[![](https://visitcount.itsvg.in/api?id=MLPonciano&label=Profile%20Visits&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 <h3 align="center">Connect with Me</h3>
 <div align="center">
 <a href="https://www.facebook.com/matthewlebron.ponciano"><img src="https://img.shields.io/badge/Matthew Lebron Ponciano-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://discord.com/users/576591168050167830"><img src="https://img.shields.io/badge/nacht.-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://github.com/MLPonciano"><img src="https://img.shields.io/badge/MLPonciano-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
