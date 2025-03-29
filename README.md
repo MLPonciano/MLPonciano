@@ -1,1 +1,1 @@
-![aboutme-neofetch](https://github.com/user-attachments/assets/e3dd62d7-7afd-45c9-901e-852aad6d94ac)
+![aboutme-neofetch](https://github.com/user-attachments/assets/b6cde6f5-c6f4-4ee9-904e-82c3d9cd9c89)
